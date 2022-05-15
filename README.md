@@ -6,5 +6,5 @@ Developmental steps:
  => representing the signed value obained in all the variables as an array [array-b].
  => comparing and matching of [array-b] with [array-a] 
 
- =>displaying the fault pattern matched with the sdg pattern and its fault detection and diagnosis
+ => displaying the fault pattern matched with the sdg pattern and its fault detection and diagnosis
  
